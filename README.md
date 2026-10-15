@@ -1,0 +1,2 @@
+# premium-stove-leg-001-stove-leg-forging-base-stand
+Stop guessing the angle and metal gauge — get a proven forging blueprint that turns raw steel into a stable, artisan base stand.  This Notion template eliminates trial and error by providing a complete workshop framework for crafting custom stove legs and base stands. It includes dimension tables, material lists, and step-by-step forging sequences
